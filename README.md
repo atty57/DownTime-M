@@ -15,7 +15,6 @@ web dashboard (current status + recent history).
   - `/history` shows recent checks (up to N) for each service.
 
 ## Requirements
-
 - Python 3.7+ (or any modern Python)
 - Installed libraries from `requirements.txt`:
   ```bash
